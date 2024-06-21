@@ -4,9 +4,13 @@
 <br/>
 &nbsp; &nbsp; Elemental World là trò chơi được lấy cảm hứng từ tựa game Geometry Dash, được thiết kết với 3 màn chơi với độ khó khác nhau. Trong mỗi màn chơi, người chơi cần điều khiển nhân vật (Player) vượt qua các chướng ngại vật và hoàn thành map để giành chiến thắng.
 <br/>
+
 &nbsp; &nbsp; Người chơi có 2 chế độ chơi với các thao tác tương ứng:
+
     - Eggon: Nhấn phím Space hoặc Up hoặc nháy chuột để nhảy
+    
     - Dragon: Nhấn phím Space hoặc Up hoặc nháy chuột để bay lên, thả để hạ xuống 
+    
 &nbsp; &nbsp; Các đối tượng trong game:
     - Player: Nhân vật do người chơi điều khiển
     - Solid: Chướng ngại vật dạng khối, khiến người chơi thua cuộc khi đâm trúng
