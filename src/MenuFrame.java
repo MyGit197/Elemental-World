@@ -12,7 +12,7 @@ public class MenuFrame extends JFrame implements ActionListener {
     static public MenuPanel menu = new MenuPanel();
     Timer timer = new Timer(1000/60, this);
 
-    // constructor
+    // constructor  
     public MenuFrame() {
         super("Elemental World");
         timer = new Timer(1000/60, this);

@@ -1,4 +1,4 @@
-/*
+w/*
     Map.java
 
     This class is used to load the map from an image and create the level.
